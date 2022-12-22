@@ -2,11 +2,11 @@
 https://github.com/xuanlt1991/udagram-capstone-project.git
 
 # API Gateway Endpoints
-GET - https://l792bctttg.execute-api.us-east-1.amazonaws.com/dev/todos
-POST - https://l792bctttg.execute-api.us-east-1.amazonaws.com/dev/todos
-PATCH - https://l792bctttg.execute-api.us-east-1.amazonaws.com/dev/todos/{todoId}
-DELETE - https://l792bctttg.execute-api.us-east-1.amazonaws.com/dev/todos/{todoId}
-POST - https://l792bctttg.execute-api.us-east-1.amazonaws.com/dev/todos/{todoId}/attachment
+- GET - https://l792bctttg.execute-api.us-east-1.amazonaws.com/dev/todos
+- POST - https://l792bctttg.execute-api.us-east-1.amazonaws.com/dev/todos
+- PATCH - https://l792bctttg.execute-api.us-east-1.amazonaws.com/dev/todos/{todoId}
+- DELETE - https://l792bctttg.execute-api.us-east-1.amazonaws.com/dev/todos/{todoId}
+- POST - https://l792bctttg.execute-api.us-east-1.amazonaws.com/dev/todos/{todoId}/attachment
   
 # Websocket
 wss://9s9hphtcz4.execute-api.us-east-1.amazonaws.com/dev
